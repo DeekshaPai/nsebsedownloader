@@ -8,3 +8,9 @@ how to run :
   go to the directory 
   python ripper.py source_csv_file.csv  ( in this case , source.csv and source1.csv)
   python nsebsedownloader.csv
+
+dependencies :
+  urllib (download from anaconda reps)
+  os (exists)
+  csv (exists)
+  sys (exists)
